@@ -10,7 +10,10 @@ Searching: Users can search data in the table.
 
 API Reference
 
-CSV_Upload provides a simple API for uploading and parsing CSV files. The API supports the following endpoints:
+CSV_Upload provides a simple API for uploading and parsing CSV files. 
+
+The API supports the following endpoints:
 
 POST /upload: Uploads a CSV file and parses the data.
+
 GET /data: Returns the parsed CSV data as JSON.
